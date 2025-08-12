@@ -1,3 +1,21 @@
-theme: jekyll-theme-minimal
-title: Loay's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Basic site info
+title: "Loay Elasmar"
+description: "Portfolio and Personal Site"
+theme: minima  # Or whichever theme you choose
+
+# Personal info
+name: "Loay Elasmar"
+photo: "/assets/images/profile.jpg"  # Path to your photo in the repo
+bio: "Computer Science student with a passion for data science. Fun fact: I like to listen to Amr Diab"
+
+# Links
+resume_url: "/assets/resume.pdf"  # Put your resume in /assets folder
+linkedin_url: https://www.linkedin.com/in/loay-elasmar/"
+github_url: "https://github.com/LoayEl"
+
+# Optional social links for themes that auto-display them
+social_links:
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/loay-elasmar/"
+  - name: GitHub
+    url: "https://github.com/LoayEl"
