@@ -1,19 +1,17 @@
-# Basic site info
 title: "Loay Elasmar"
 description: "Portfolio and Personal Site"
-theme: minima  # Or whichever theme you choose
+theme: minima  
 
-# Personal info
+
 name: "Loay Elasmar"
-photo: "/assets/images/profile.jpg"  # Path to your photo in the repo
+photo: "/assets/images/profile.jpg"  
 bio: "Computer Science student with a passion for data science. Fun fact: I like to listen to Amr Diab"
 
-# Links
-resume_url: "/assets/resume.pdf"  # Put your resume in /assets folder
+
+resume_url: "/assets/resume.pdf"  
 linkedin_url: https://www.linkedin.com/in/loay-elasmar/"
 github_url: "https://github.com/LoayEl"
 
-# Optional social links for themes that auto-display them
 social_links:
   - name: LinkedIn
     url: "https://www.linkedin.com/in/loay-elasmar/"
