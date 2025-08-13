@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "{{ site.title }}"
+title: "Personal Site"
 ---
 
 # {{ site.name }}
