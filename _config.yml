@@ -1,15 +1,13 @@
 title: "Loay Elasmar"
 description: "Portfolio and Personal Site"
-theme: midnight  
-
+theme: midnight
 
 name: "Loay Elasmar"
-photo: "/assets/loay_image.jpg"  
-bio: "Computer Science student with a passion for data science. Fun fact: I like to listen to Amr Diab"
+photo: "/assets/loay_image.jpg"
+bio: "Computer Science student with a passion for data science. Fun fact: I like to listen to Amr Diab."
 
-
-resume_url: "/assets/test.pdf"  
-linkedin_url: https://www.linkedin.com/in/loay-elasmar/"
+resume_url: "/assets/test.pdf"
+linkedin_url: "https://www.linkedin.com/in/loay-elasmar/"
 github_url: "https://github.com/LoayEl"
 
 social_links:
