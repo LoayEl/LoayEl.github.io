@@ -3,6 +3,8 @@ layout: default
 title: "Personal Site"
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # {{ site.name }}
 
 <img src="{{ site.photo }}" alt="Photo of {{ site.name }}" width="180" />
